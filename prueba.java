@@ -6,6 +6,9 @@ public class prueba {
             if(i == 8){
                 System.out.println("8");
             }
+            for(int j = 0;j<i;j++){
+                System.out.println(j);
+            }
         }
     }
 }
